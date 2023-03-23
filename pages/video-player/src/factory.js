@@ -6,7 +6,6 @@ import { supportsWorkerTypes } from "../../../lib/shared/util.js";
 
 async function getWorker() {
   if (supportsWorkerTypes) {
-    console.log('Initializing esm workers')
     const worker = new Worker('./src/worker.js', { type: 'module' })
     return worker
   }

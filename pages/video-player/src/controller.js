@@ -22,7 +22,6 @@ export default class Controller {
     let ready = false
     worker.onmessage = ({ data }) => {
       if ('READY' === data) {
-        console.log('worker is ready!')
         this.#view.enableButton()
         ready = true
         return
@@ -30,7 +29,6 @@ export default class Controller {
       const blinked = data.blinked
       this.#blinkCounter += blinked
       this.#view.togglePlayVideo()
-      console.log('blinked', blinked)
     }
 
     return {
