@@ -1,32 +1,28 @@
-# JSExpertMax Gesture Controller - Semana JS Expert 7.0
+# Gesture Controller
 
-Código desenvolvido durante a sétima semana Javascript Expert ministrado por Erick Wendel
+Website where navigation is interactive, defined by your gestures. <br/> <br/> <br/>
 
-Marque esse projeto com uma estrela 🌟
+<img width=100% src="./initial-template/assets/demo-template-lg.gif"> <br/> <br/>
 
-## Preview
-<img width=100% src="./initial-template/assets/demo-template-lg.gif">
+Available at: https://guicintra27.github.io/Interactive-website/pages/titles/
 
-## Pre-reqs
+## About
 
-- Este projeto foi criado usando Node.js v19.6
+This application aims to make browsing more fun and immersive for the user, getting closer to reality.\
+Below are the implemented features:
 
-## Running
+- Machine learning <br/>
 
-- Execute `npm ci` para restaurar os pacotes
-- Execute `npm start` e em seguida vá para o seu navegador em [http://localhost:3000](http://localhost:3000) para visualizar a página acima
+liked? Mark this project with a star 🌟
 
-### Créditos ao Layout
-- Interface baseada no projeto [Streaming Service](https://codepen.io/Gunnarhawk/pen/vYJEwoM) de [gunnarhawk](https://github.com/Gunnarhawk)
+## Technologies
 
-# English Version
+The following tools and frameworks were used in the construction of the project: <br/>
 
-Code developed during seventh week of Javascript Expert ministered by Erick Wendel
-
-Mark this project with a star 🌟
-
-## Preview
-<img width=100% src="./initial-template/assets/demo-template-lg.gif">
+<div style="display: inline_block"> 
+        <img align="center" alt="Gui-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+        <img align="center" alt="Gui-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
 ## Pre-reqs
 
@@ -34,8 +30,10 @@ Mark this project with a star 🌟
 
 ## Running
 
-- Execute `npm ci` to restore the packages
-- Execute `npm start` and then go to your web browser at  [http://localhost:3000](http://localhost:3000) to view the above page
+1. Clone this repository
+2. Execute `npm ci` to restore the packages
+3. Execute `npm start` and then go to your web browser at [http://localhost:3000](http://localhost:3000) to view the above page
 
 ### Layout Credits
+
 - Interface based on project [Streaming Service](https://codepen.io/Gunnarhawk/pen/vYJEwoM) of [gunnarhawk](https://github.com/Gunnarhawk)
