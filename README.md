@@ -2,7 +2,7 @@
 
 Website where navigation is interactive, defined by your gestures. <br/> <br/> <br/>
 
-<img width=100% src="./initial-template/assets/demo-template-lg.gif"> <br/> <br/>
+<img width=100% src="./assets/interactive%20website.gif"> <br/> <br/>
 
 Available at: https://guicintra27.github.io/Interactive-website/pages/titles/
 
