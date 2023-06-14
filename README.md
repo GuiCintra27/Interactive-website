@@ -1,6 +1,6 @@
 # Gesture Controller
 
-Website where navigation is interactive, defined by your gestures. <br/> <br/> <br/>
+Website where navigation is interactive, defined by your gestures. <br/> <br/> 
 
 <img width=100% src="./assets/interactive%20website.gif"> <br/> <br/>
 
